@@ -1,0 +1,13 @@
+total 4
+drwxr-xr-x  20 root root        4480 Feb 21 13:03 .
+drwxr-xr-x  23 root root        4096 Feb 19 23:50 ..
+crw-r--r--   1 root root     10, 235 Feb 21 13:03 autofs
+drwxr-xr-x   2 root root         280 Feb 21 13:02 block
+drwxr-xr-x   2 root root          80 Feb 21 13:02 bsg
+crw-rw----   1 root disk     10, 234 Feb 21 13:03 btrfs-control
+drwxr-xr-x   3 root root          60 Feb 21 13:02 bus
+lrwxrwxrwx   1 root root           3 Feb 21 13:03 cdrom -> sr0
+lrwxrwxrwx   1 root root           3 Feb 21 13:03 cdrw -> sr0
+drwxr-xr-x   2 root root        4200 Feb 21 13:03 char
+crw--w----   1 root tty       5,   1 Feb 21 13:03 console
+lrwxrwxrwx   1 root root          11 Feb 21 13:02 core -> /proc/kcore
